@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Title Styled Components renders correctly 1`] = `
+<h1
+  style={
+    Object {
+      "flexWrap": "nowrap",
+      "fontSize": "10vw",
+      "justifyContent": "center",
+      "marginBottom": "0",
+      "textShadow": "11px 1px 20px black",
+    }
+  }
+/>
+`;

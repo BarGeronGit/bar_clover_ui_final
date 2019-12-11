@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image Styled Components renders correctly 1`] = `
+<img
+  alt={undefined}
+  className="sc-bdVaJa iVBFAr"
+  src={undefined}
+/>
+`;

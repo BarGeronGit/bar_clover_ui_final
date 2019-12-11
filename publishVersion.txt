@@ -1,7 +1,0 @@
-#!/bin/bash
-# Version Patch and update
-
-git add . 
-git commit -m "message here"
-npm version patch
-npm publish
